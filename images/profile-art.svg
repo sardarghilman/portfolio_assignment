@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440" role="img" aria-labelledby="title desc">
+  <title id="title">Creative student at a laptop</title>
+  <desc id="desc">A person at a desk with a laptop, plant, and warm abstract shapes.</desc>
+  <rect width="640" height="440" rx="28" fill="#dff4ef"/>
+  <circle cx="490" cy="115" r="70" fill="#ffcf9f"/>
+  <path d="M0 345c92-38 176-31 272 5s235 34 368-9v99H0z" fill="#c1e7dd"/>
+  <rect x="99" y="344" width="445" height="18" rx="9" fill="#102a43" opacity=".12"/>
+  <path d="M175 173c0-64 47-105 105-105s105 41 105 105v47H175z" fill="#102a43"/>
+  <circle cx="281" cy="173" r="76" fill="#e9ad83"/>
+  <path d="M207 157c8-57 43-89 83-89 41 0 76 29 85 77-29-3-54-16-73-37-22 26-55 43-95 49" fill="#102a43"/>
+  <path d="M197 272c18-42 47-63 85-63 44 0 77 22 99 63l29 88H168z" fill="#ff765e"/>
+  <path d="M232 212c13 17 30 25 49 25 21 0 40-9 54-27l21 24c-20 27-44 40-75 40-30 0-54-13-72-38z" fill="#fff" opacity=".84"/>
+  <rect x="142" y="284" width="278" height="15" rx="7.5" fill="#102a43"/>
+  <path d="M164 299h234l-18 83H182z" fill="#486581"/>
+  <rect x="184" y="311" width="194" height="55" rx="5" fill="#f7f9fc"/>
+  <path d="M226 339h110" stroke="#ff765e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M235 358h77" stroke="#b8cbd9" stroke-width="7" stroke-linecap="round"/>
+  <path d="M451 271h63v75h-63z" fill="#ffcf9f"/>
+  <path d="M444 269h77v12h-77z" fill="#d98c64"/>
+  <path d="M463 271c-29-26-26-57-11-76 25 19 29 48 11 76zm30-7c-5-34 12-55 35-61 7 28-5 50-35 61z" fill="#3b8f79"/>
+  <circle cx="124" cy="116" r="11" fill="#ff765e"/><circle cx="488" cy="228" r="8" fill="#3b8f79"/>
+</svg>
